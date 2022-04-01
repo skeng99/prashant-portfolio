@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/prashant-portfolio/static/css/main.7c82252e.css",
+    "main.js": "/prashant-portfolio/static/js/main.c0e2958e.js",
+    "static/media/praaa.JPG": "/prashant-portfolio/static/media/praaa.5b06bfee33b190e0304d.JPG",
+    "static/media/cavinimg.jpg": "/prashant-portfolio/static/media/cavinimg.77adeaa3a878fa721ecc.jpg",
+    "static/media/utracker.jpg": "/prashant-portfolio/static/media/utracker.be1fe64a60e6c8ad2a2f.jpg",
+    "static/media/greenctg.jpg": "/prashant-portfolio/static/media/greenctg.e51b3bbd67082da93f16.jpg",
+    "static/media/prashant.jpg": "/prashant-portfolio/static/media/prashant.af6af59a9f53dd1395e1.jpg",
+    "static/media/Montserrat-Bold.ttf": "/prashant-portfolio/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/prashant-portfolio/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/pra.jpg": "/prashant-portfolio/static/media/pra.89c91c10c4a2700b7c9b.jpg",
+    "static/media/cointracker.jpg": "/prashant-portfolio/static/media/cointracker.8da9e0cd4402156b905b.jpg",
+    "static/media/maap.png": "/prashant-portfolio/static/media/maap.377152ac85395a1081ce.png",
+    "static/media/RobotoMono-Regular.ttf": "/prashant-portfolio/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
+    "static/media/projectImg.png": "/prashant-portfolio/static/media/projectImg.771236e1a97e2201a189.png",
+    "index.html": "/prashant-portfolio/index.html",
+    "main.7c82252e.css.map": "/prashant-portfolio/static/css/main.7c82252e.css.map",
+    "main.c0e2958e.js.map": "/prashant-portfolio/static/js/main.c0e2958e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c82252e.css",
+    "static/js/main.c0e2958e.js"
+  ]
+}
